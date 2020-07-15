@@ -26,7 +26,7 @@ SECRET_KEY = 'rb2op!i-3ya0ic+g3&#q(^buy4t0$s%t9i8c3@%4gl!f)#f3#f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mss-django-app.herokuapp.com']
 
 
 # Application definition
